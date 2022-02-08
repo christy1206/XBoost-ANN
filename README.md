@@ -2,13 +2,13 @@
 
 A six-step preprocessing procedure is introduced to enhance the quality of the leather image in terms of visibility and to preserve important features representation. Then, multiple classifiers are utilized to differentiate between defective and nondefective leather patches.
  
-Example of leather patch:
+Example of leather patches:
 
-<img src="https://github.com/christy1206/STSTNet/blob/picture/result.JPG" width="600" height="150"/>
+<img src="https://github.com/christy1206/XBoost-ANN/blob/picture/leather.JPG" width="600" height="300"/>
 
 The recognition results achieved are:
 
-<img src="https://github.com/christy1206/STSTNet/blob/picture/result.JPG" width="600" height="150"/>
+<img src="https://github.com/christy1206/XBoost-ANN/blob/picture/result.JPG" width="600" height="450"/>
 
 The pre-processing techniques involved are:
 1) histogram matching - *imhistmatch(I,ref)*
@@ -36,3 +36,17 @@ Software is written and tested using Matlab 2020b, toolbox required:
 1) Parallel Computing Toolbox 
 2) Computer Vision System Toolbox
 3) Statistics and Machine Learning Toolbox
+
+
+## If you use this method in your research, please cite:
+
+@inproceedings{liong2022automated,\
+  title={Automated Classification System for Tick Bite Defect on Leather},\
+  author={Y.S. Gan, Wei-Chuen Yau, Sze-Teng Liong, Chih-Cheng Chen},\
+  journal={Mathematical Problems in Engineering},
+  year={2022}
+}
+
+If you have suggestions or questions regarding this method, please reach out to stliong@fcu.edu.tw
+
+Thank you for your interest and support.
