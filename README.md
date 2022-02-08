@@ -4,11 +4,13 @@ A six-step preprocessing procedure is introduced to enhance the quality of the l
  
 Example of leather patch:
 
-<img src="https://github.com/christy1206/STSTNet/blob/picture/result.JPG" width="600" height="150"/>
+<img src="https://github.com/christy1206/XBoost-ANN/blob/picture/leather.JPG" width="600" height="300"/>
+
+Sample dataset is available at https://github.com/christy1206/XBoost-ANN/tree/dataset
 
 The recognition results achieved are:
 
-<img src="https://github.com/christy1206/STSTNet/blob/picture/result.JPG" width="600" height="150"/>
+<img src="https://github.com/christy1206/XBoost-ANN/blob/picture/result.JPG"/>
 
 The pre-processing techniques involved are:
 1) histogram matching - *imhistmatch(I,ref)*
